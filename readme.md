@@ -8,7 +8,7 @@ LICENSE: [MIT](./license.md)
 
 ### Содержание
 
-1. [GIT](./GIT.md)
+1. [Основы GIT](./GIT.md)
 2. 
 3. 
 2. [git add](./add.md)
@@ -16,8 +16,12 @@ LICENSE: [MIT](./license.md)
 
 
 
+---
 
+#### Используемые источники   
+1. GitHowto by Alexander Shvets - https://githowto.com/ru, LICENSE: [Creative Commons Attribution-NonCommercial-ShareAlike License](https://creativecommons.org/licenses/by-nc-sa/3.0/)
 
+2. 
 
 
 ---
