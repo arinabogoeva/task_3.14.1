@@ -9,7 +9,7 @@ LICENSE: [MIT](./license.md)
 ### Содержание
 
 1. [Основы GIT](./GIT.md)
-2. 
+2. [Установка GIT](./installation.md)
 3. 
 2. [git add](./add.md)
 
