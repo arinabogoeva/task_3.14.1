@@ -20,4 +20,4 @@ LICENSE: [MIT](./license.md)
 
 ---
 
-GIT logo by Jason Long - http://git-scm.com/downloads/logos, LICENCE: [Creative Commons Attribution 3.0 Unported](https://creativecommons.org/licenses/by/3.0/)
+GIT logo by Jason Long - http://git-scm.com/downloads/logos, LICENCE: [Creative Commons Attribution 3.0](https://creativecommons.org/licenses/by/3.0/)
