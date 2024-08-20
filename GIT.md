@@ -1,4 +1,4 @@
-[< назад](./readme.md)
+[< назад](./readme.md) / [далее >](./installation.md)
 
 ## Что такое GIT?
 
