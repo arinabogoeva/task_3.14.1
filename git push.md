@@ -1,6 +1,6 @@
 [На главную](./readme.md) 
 
-[<назад ](./git%20commit.md)  \  [ далее >](./git%20pull.md)
+[<назад ](./git%20commit.md)  \  [ далее >](./creating%20a%20branch.md)
 
 ### git push
 

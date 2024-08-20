@@ -13,24 +13,20 @@ LICENSE: [MIT](./license.md)
 3. [Базовая настройка](./First%20setup.md)
 4. [GitHub](./GitHub.md)
 5. [Создание проекта](./creating%20a%20file.md)
-   1. [git init](./git%20init.md)
-   2. [git status](./git%20status.md)
-   3. [git add](./add.md)
-   4. [git commit](./git%20commit.md)
-   5. [git push/git pull](./git%20push.md)
-6. [Создание ветки]()
-7. [Работа с ветками]()
+   + [git init](./git%20init.md)
+   + [git status](./git%20status.md)
+   + [git add](./add.md)
+   + [git commit](./git%20commit.md)
+   + [git push/git pull](./git%20push.md)
+6. [Создание ветки](./creating%20a%20branch.md)
+7. [Работа с ветками](./working%20with%20branches.md)
 
 
 
 
 ---
 
-#### Используемые источники   
-1. GitHowto by Alexander Shvets - https://githowto.com/ru, LICENSE: [Creative Commons Attribution-NonCommercial-ShareAlike License](https://creativecommons.org/licenses/by-nc-sa/3.0/)
+GitHowto by Alexander Shvets - https://githowto.com/ru, LICENSE: [Creative Commons Attribution-NonCommercial-ShareAlike License](https://creativecommons.org/licenses/by-nc-sa/3.0/)
 
-
-
----
 
 GIT logo by Jason Long - http://git-scm.com/downloads/logos, LICENCE: [Creative Commons Attribution 3.0](https://creativecommons.org/licenses/by/3.0/)
