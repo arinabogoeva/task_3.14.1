@@ -1,1 +1,0 @@
-[< назад ](./readme.md)  \  [ далее >](./First%20setup.md)

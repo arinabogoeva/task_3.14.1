@@ -17,13 +17,9 @@ LICENSE: [MIT](./license.md)
    2. [git status](./git%20status.md)
    3. [git add](./add.md)
    4. [git commit](./git%20commit.md)
-   5. [git push](./git%20push.md)
-   6. [git pull](./git%20pull.md)
+   5. [git push/git pull](./git%20push.md)
 6. [Создание ветки]()
 7. [Работа с ветками]()
-8. [Конфликт]()
-   1. [Создание]()
-   2. [Разрешение]()
 
 
 
